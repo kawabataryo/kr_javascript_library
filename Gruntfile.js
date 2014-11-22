@@ -24,7 +24,9 @@ module.exports = function(grunt) {
 				'src/kr.namespace.js',
 				'src/kr.utils.js',
 				'src/kr.decideUA.js',
-				'src/kr.getElementsOffsetTop.js'
+				'src/kr.getElementsOffsetTop.js',
+				'src/kr.jQuery.pageScroll.js',
+				'src/kr.jQuery.imgRollover.js'
 				],
 				dest : 'dest/kr.lib.js'
 			}

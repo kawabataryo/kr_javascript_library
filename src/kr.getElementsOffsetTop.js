@@ -1,4 +1,4 @@
-(function(ns){
+;(function(ns){
 
 	/**
 	 * 要素の縦の位置を取得する

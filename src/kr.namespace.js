@@ -6,4 +6,5 @@
  * @namespace kr
  */
 var kr = kr || {};
+kr.ImgRollover = {};
 
